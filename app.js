@@ -7,7 +7,7 @@ let formT =`<form action="/addddd" method="POST" id="todoForm">
 <button>Adauga</button>
 </form>`
 
-let stringcon = "mongodb+srv://flo:12345@cluster0-zktbz.mongodb.net/todoApp?retryWrites=true&w=majority"
+let stringcon = "mongodb+srv://user:pass@cluster0-zktbz.mongodb.net/todoApp?retryWrites=true&w=majority"
 
 
 let express = require("express")
